@@ -1,5 +1,5 @@
 {
-    "name": "lwwcas/laravel-countries",
+    "name": "placecodex/laravel-countries",
     "description": "A list of all countries, optimized for Laravel 8",
     "homepage": "https://github.com/lwwcas/laravel-countries",
     "type": "library",
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^8.12",
+        "laravel/framework": "^6.2|^8.12",
         "astrotomic/laravel-translatable": "^11.8"
     },
     "require-dev": {
